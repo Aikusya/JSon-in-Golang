@@ -51,7 +51,7 @@ func JSONRequest(w http.ResponseWriter, r *http.Request) {
 }
 
 /*
-first attempt of assignment. query were used.
+first attempt of assignment. query may were used.
 */
 
 func JSONRequestFirstAttempt(w http.ResponseWriter, r *http.Request) {
